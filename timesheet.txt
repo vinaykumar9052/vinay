@@ -1,0 +1,89 @@
+10-2-2025-Monday:rsmail-optional settings groupbox issue and groupbox items  - 8
+11-2-2025-tuesday:rschartlib code review,rasadvancechartlib code review using debug
+12-2-2025-wednesday:new feature implementation TEMPLATE CATEGORYDIALOG in uniserve menu 
+13-2-2025-thursday:add templatecategory option to open dialog 
+14-2-2025-Friday:add templatecategory filtering to open action in uniserve
+-------------------------------------------------------------------------------------------------------------
+15-2-2025-weekend
+16-2-2025-sunday
+17-2-2025-monday:template category id saving using add to version control or check in
+18-2-2025-tuesday:saving loading and saving templatecatregory id in rst file and small changes in the templatecategory implementation
+19-2-2025-wednesday:checking test cases and code review done
+20-2-2025-thursday:rsclient,rspdssvccore checking code flow 
+21-2-2025-friday:checking code flows found a bug in open action in search filtering and self learning
+-------------------------------------------------------------------------------------------------------------
+22-2-2025-weekend
+23-2-2025-sunday
+24-2-2025-monday:self learning
+25-2-2025-tuesday:self learning
+26-2-2025-wednesday:holiday
+27-2-2025-thursday:code review and learning the flow the code of different project modules,uniserve 360 new feature
+28-2-2025-friday:self learning
+-------------------------------------------------------------------------------------------------------------
+1-3-2025-weekend
+2-3-2025-sunday
+3-3-2025-In Table object right click action if we give hyperlink same it was displaying in tool tip,In Archival Configuration Tool, if we uncheck DeepArchival checkbox respective data disappears.resolved and testcases done
+4-3-2025-In metadata indexing If we give test connection in other db with out giving details we getting pop-up invalid database.Expected Behaviour:If we give test connection with out db details we should get mandatory pop-up,events-if we select all the layers and objects manually then  select all check box is not selecting.-resolved and test cases done
+5-3-2025-checking the codeflow of rsquerybuilder and self learning
+6-3-2025-checking the codeflow of rsquerybuilder how the tabs are working and how it is taking the query in query editor
+7-3-2025-self learning,checking code flow of different modules and exploring content in qt using qt assist and R and D
+-------------------------------------------------------------------------------------------------------------
+8-3-2025-weekend
+9-3-2025-sunday
+10-3-2025-checking the code flow client to server and how it works in UNISERVE
+11-3-2025-self learning html and css and java in coursera,my butterfly session,plum
+12-3-2025-self learning html and css and java in coursera,low code no code session
+13-3-2025-self learning html and css and java in coursera
+14-3-2025-holiday
+-------------------------------------------------------------------------------------------------------------
+15-3-2025-weekend
+16-3-2025-sunday
+17-3-2025-monday:code review of different modules in uniserve for better understanding,self learning html and css and java in coursera
+18-3-2025-tuesday:critical thinking,
+19-3-2025-wednesday:
+20-3-2025-thursday:
+21-3-2025-friday:
+-------------------------------------------------------------------------------------------------------------
+22-3-2025-weekend
+23-3-2025-sunday
+24-3-2025-monday:code review and checking code flow of dataloaderuim in uniserve and practicing html and css 
+25-3-2025-tuesday:code review and checking codeflow of objectinspector in uniserve and practicing html and css learning javascript(code execution)
+26-3-2025-wednesday:code review of pds server and sockets code flow how it is working in uniserve and practicing classes objects in java 
+27-3-2025-thursday:code review of rsprocesscore code flow and learning html and css in coursera
+28-3-2025-friday:code review of uniservemigrationtool code flow practicing and exploring qt modules 
+-------------------------------------------------------------------------------------------------------------
+29-3-2025-weekend
+30-3-2025-sunday
+31-3-2025-holiday
+--------------------april start------------------------------------------------------------------------------
+1-3-2025-tuesday:code review and checking code flow and rsmc learning typerscript for angular in coursera,companymeeting
+2-4-2025-wednesday:self learning html and css and angular in coursera and youtube
+3-4-2025-thursday:self learning angular concepts databinding and code review of uniserve modules 
+4-4-2025-friday:self learning typescript language concepts and angular concepts,Azure Training Webinar 
+5-4-2025-weekend
+6-4-2025-sunday
+-------------------------------------------------------------------------------------------------------------
+7-4-2025-monday:self learing ng model and databinding and code review of usconfigmangttool
+8-4-2025-tuesday:self learning angular concepts teamplate driven reactive forms in youtube and practice
+9-4-2025-wednesday:self learning angular concepts reactive forms in youtube and practice and 
+10-4-2025-thursday:Fostering Innovation Training,self learning angular concepts
+11-4-2025-friday:Leave
+12-4-2025-weekend
+13-4-2025-sunday
+-------------------------------------------------------------------------------------------------------------
+14-4-2025-monday:self learning directives and one way and two way databinding practice in vs code ,code review debugging the uniserve
+15-4-2025-tuesday:AWS Cloud Security Training Session(in teams),Uniserve Reach Training Session(in teams) and self learning in coursera
+16-4-2025-wednesday:code review of new transaction option in rsdistribution and self learning java
+17-4-2025-thursday:self learning angular concepts in youtube,code review of uniserve modules
+18-4-2025-friday:holiday
+19-4-2025-weekend
+20-4-2025-sunday
+-------------------------------------------------------------------------------------------------------------
+21-4-2025-monday:change the uniserve(in local) to server machine and testing the services
+22-4-2025-tuesday:uniservereach training(in teams),change the uniserve(in local)to client machine and testing the uniserve
+23-4-2025-wednesday:checking the client machine rsmc client registration working or not?
+24-4-2025-thursday:VSCODE Copilot Training Session,
+25-4-2025-friday:
+26-4-2025-weekend
+27-4-2025-sunday
+
